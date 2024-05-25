@@ -1,0 +1,7 @@
+x=input('Enter a number for variable x')
+y=input('Enter a number for variable y')
+print ("Before swapping: ")
+print("Value of x : ", x, " and y : ", y)
+x, y = y, x
+print ("After swapping: ")
+print("Value of x : ", x, " and y 
